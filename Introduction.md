@@ -4,6 +4,10 @@ Markov creates 'Virtual Users' to extensively test your software applications. M
 
 The service operates in two steps. Below is a diagram depicting the functionality of the service:
 
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
 # 0. Setup
 
 
