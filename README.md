@@ -1,8 +1,9 @@
 # Welcome to Markov's Documentation!
  
-Markov creates 'Virtual Users' to extensively test your software applications. 
+Markov is a service that automates the manual process of writing test scripts. It does this by creating 'Virtual Users to extensively test and catch software issues before your real users do.
+ 
 
-More specifically, it is a service that mimics human users for your application in terms of their HTTP traffic. All Markov needs to take in are your API requests. Best yet, Markov is totally customizable: you have total autonomy in choosing which requests you want to forward to it and which features to test.
+More specifically, Markov mimics human users for your application in terms of their HTTP traffic. All Markov needs to take in are your API requests. Best yet, Markov is totally customizable: you have total autonomy in choosing which requests you want to forward to it and which features to test.
 
 The service operates in two steps. Below is a diagram depicting the functionality of the service:
 
@@ -11,7 +12,6 @@ The service operates in two steps. Below is a diagram depicting the functionalit
 
 
 # 0. Getting Started
-
 
 
 # Notes
