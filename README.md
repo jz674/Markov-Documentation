@@ -1,6 +1,6 @@
 # Welcome to Markov Documentation
  
-Markov automates the manual process of creating user behaviour scripts to test previously developed software still functions after a change.
+Markov automates the manual process of creating test scripts to help ensure previously developed software still functions after a change.
 
 Markov is focused on the API/Service layer of testing. At its core, Markov provides confidence that new functionalities will not systemically break previously developed software by letting you [regression test][1] on-demand - integrated with your git-workflow.
 
