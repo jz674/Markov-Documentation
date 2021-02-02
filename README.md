@@ -18,7 +18,7 @@ The service operates in two steps. Below is a diagram depicting the functionalit
 # Notes
 [Find out if Markov is a right for you][3].
 
-If anything is unclear: @jz674@cornell.edu
+If anything is unclear: jz674@cornell.edu
 
 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test"
