@@ -2,7 +2,7 @@
  
 Markov automates the manual process of creating test scripts to help ensure previously developed software still functions after a change.
 
-Markov is focused on the [API/Service/Business layer of testing]. At its core, Markov provides confidence that new functionalities will not systemically break previously developed software by letting you [regression test][1] on-demand - integrated with your git-workflow.
+Markov is focused on the [API/Service/Business layer of testing][2]. At its core, Markov provides confidence that new functionalities will not systemically break previously developed software by letting you [regression test][1] on-demand - integrated with your git-workflow.
 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test"
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API/Service/Business layer of testing" 
