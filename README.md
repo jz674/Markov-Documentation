@@ -16,7 +16,7 @@ The service operates in two steps. Below is a diagram depicting the functionalit
 
 
 # Notes
-[Find out if Markov is a right for you][3].
+[Find out if Markov is right for you][3].
 
 If anything is unclear: jz674@cornell.edu
 
