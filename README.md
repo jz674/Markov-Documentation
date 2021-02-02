@@ -4,9 +4,9 @@ Markov automates the manual process of creating test scripts to help ensure prev
 
 Markov is focused on the [API/Service/Business layer of testing][2]. At its core, Markov provides confidence that new functionalities will not systemically break previously developed software by letting you [regression test][1] on-demand - as part of your git-workflow.
 
-It does this by creating 'Virtual Users' to extensively test and catch software issues before your real users do. More specifically, Markov mimics human users for your application in terms of their HTTP traffic. All Markov needs to take in are your API requests. Best yet, Markov is totally customizable: you have total autonomy in choosing which requests you want to forward to it and which features to test.
+We do this by creating 'Virtual Users' to extensively test and catch software issues before your real users do. More specifically, Markov mimics human users for your application in terms of their HTTP traffic. All Markov needs to take in are your API requests. Best yet, Markov is totally customizable: you have total autonomy in choosing which requests you want to forward to it and which features to test.
 
-The service operates in two steps. Below is a diagram depicting the functionality of the service:
+Markov operates in two steps. Below is a diagram depicting the functionality of the service:
 
 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/Intro_diagram.png)
