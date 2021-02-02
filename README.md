@@ -1,4 +1,4 @@
-# Welcome to Markov Documentation!
+# Welcome to Markov Documentation
  
 Markov automates the manual process of creating test scripts for shipped features to help ensure previously developed software still functions after a change.
 
