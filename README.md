@@ -16,9 +16,8 @@ Markov operates in two steps. Below is a diagram depicting the functionality of 
 
 
 # Notes
-[Find out if Markov is right for you][3].
-
-If anything is unclear: jz674@cornell.edu
+1. [Find out if Markov is right for you][3]
+2. If anything is unclear: jz674@cornell.edu
 
 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test"
