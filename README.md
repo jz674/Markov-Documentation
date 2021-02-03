@@ -15,7 +15,7 @@ Markov operates in two steps. Below is a diagram depicting the functionality of 
 [Request Early Access][3] and instructions will follow.
 
 # 1. Pricing
-[Request Early Access][3] and you will get Markov for free.
+[Request Early Access and Beta Test][3] and you will get Markov for free.
 
 # 2. Contact
 Raech out to: jz674@cornell.edu 
