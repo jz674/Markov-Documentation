@@ -14,6 +14,8 @@ Markov operates in two steps. Below is a diagram depicting the functionality of 
 
 # 0. Getting Started
 
+# 1. Pricing
+Sign up for [Early Access][3] and you will get Markov for free.
 
 # Notes
 1. If anything is unclear: jz674@cornell.edu
@@ -21,3 +23,4 @@ Markov operates in two steps. Below is a diagram depicting the functionality of 
 
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API/Service/Business layer of testing" 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
+[3]: https://markov.run/ "Early Access" 
