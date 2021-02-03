@@ -23,13 +23,18 @@ Markov operates in two steps. Below is a diagram depicting the functionality of 
 # 2. Pricing
 [Request Early Access and Beta Test][3], and you will get Markov for free.
 
-# 3. Contact
+# 3. [Demo][4]
+*** Markov v1.0 will not have a Graphic User Inferface, instead it will be use a Command Line Interface ***
+
+# 4. Contact
 Reach out to: jz674@cornell.edu 
 
 # Note
 Beta expected to launch in May 2021 - high hopes it will arrive sooner :) 
+https://www.youtube.com/watch?v=hv1AR6asbtA
 
-
-[2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API/Service/Business layer of testing" 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
+[2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API/Service/Business layer of testing" 
 [3]: https://markov.run/ "Request Early Access" 
+[4]: https://www.youtube.com/watch?v=hv1AR6asbtA "Demo"
+
