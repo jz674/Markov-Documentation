@@ -9,7 +9,7 @@ We do this by creating 'Virtual Users' to extensively test and catch software is
 Markov operates in two steps. Below is a diagram depicting the functionality of the service:
 
 
-![alt text](https://github.com/jz674/Markov_Documentation/blob/main/Intro_diagram.png)
+![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
 
 
 # 0. Getting Started
