@@ -10,21 +10,25 @@ Markov operates in two steps. Below is a diagram depicting the functionality of 
 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
 
-# Business Value
+# 0. Business Value
 1. Reduce time spent handcrafting Automation Scripts
 2. Realistic test your application at scale before Production
 3. Extensive coverage on eser happy paths and edge cases
 4. Seamless integration - No maintenance or specialized training needed
 5. Dead simple to get started
 
-# 0. Getting Started
+# 1. Getting Started
 [Request Early Access][3] and instructions will follow.
 
-# 1. Pricing
+# 2. Pricing
 [Request Early Access and Beta Test][3] and you will get Markov for free.
 
-# 2. Contact
+# 3. Contact
 Reach out to: jz674@cornell.edu 
+
+# Note
+1. Beta expected to launch in May 2021 - high hopes it will arrive sooner :) 
+
 
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API/Service/Business layer of testing" 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
