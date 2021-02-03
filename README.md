@@ -24,7 +24,7 @@ Markov operates in two steps. Below is a diagram depicting the functionality of 
 [Request Early Access and Beta Test][3], and you will get Markov for free.
 
 # 3. [Demo][4]
-* Contrary to demo, Markov v1.0 have Command Line Interface - not Graphic User Inferface *
+* Contrary to demo, Markov v1.0 will have Command Line Interface - not a Graphic User Inferface *
 # 4. Contact
 Reach out to: jz674@cornell.edu 
 
