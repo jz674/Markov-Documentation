@@ -27,7 +27,7 @@ Markov operates in two steps. Below is a diagram depicting the functionality of 
 Reach out to: jz674@cornell.edu 
 
 # Note
-1. Beta expected to launch in May 2021 - high hopes it will arrive sooner :) 
+Beta expected to launch in May 2021 - high hopes it will arrive sooner :) 
 
 
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API/Service/Business layer of testing" 
