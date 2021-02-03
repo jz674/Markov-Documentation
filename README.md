@@ -18,7 +18,7 @@ Markov operates in two steps. Below is a diagram depicting the functionality of 
 5. Dead simple to get started
 
 # 1. Getting Started
-[Request Early Access][3] and instructions will follow.
+[Request Early Access][3], and instructions will follow.
 
 # 2. Pricing
 [Request Early Access and Beta Test][3], and you will get Markov for free.
