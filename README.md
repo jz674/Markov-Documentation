@@ -11,15 +11,14 @@ Markov operates in two steps. Below is a diagram depicting the functionality of 
 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
 
-
 # 0. Getting Started
+Sign up for [Early Access][3] and instructions will follow.
 
 # 1. Pricing
 Sign up for [Early Access][3] and you will get Markov for free.
 
-# Notes
-1. If anything is unclear: jz674@cornell.edu
-
+# 2. Contact
+If anything is unclear: jz674@cornell.edu 
 
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API/Service/Business layer of testing" 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
