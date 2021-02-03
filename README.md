@@ -20,4 +20,4 @@ Markov operates in two steps. Below is a diagram depicting the functionality of 
 
 
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API/Service/Business layer of testing" 
-[3]: https://markov.run/nav/why_us/ "Find out if Markov is a right for you" 
+[1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
