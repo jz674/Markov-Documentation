@@ -25,7 +25,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 [Request Early Access][3], and instructions will follow.
 
 # Pricing
-[Request Early Access][3], and you will receive exclusive discounts only for Early Adopters
+[Request Early Access][3], and you will receive exclusive discounts only for our Early Adopters
 
 # Demo
 Markov will initally be a CLI. But here is the [UI][4] once we expand to other markets.
