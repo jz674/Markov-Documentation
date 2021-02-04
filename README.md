@@ -34,7 +34,7 @@ Markov will initally be a CLI. But here is the [UI][4] once we expand to other m
 Reach us at jz674@cornell.edu 
 
 # Note
-Beta is expected to launch in May 2021 - high hopes it will arrive sooner :) 
+Beta is expected to launch in May 2021 - high hopes we can launch sooner :) 
 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API/Service/Business layer of testing" 
