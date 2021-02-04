@@ -18,8 +18,11 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 5. Dead simple to get started
 
 # Value Proposition - Enterprise
-1. Update legacy software with confidence
-2. And everything above ^^^
+1. Reduce Quality Assurance staffing
+2. Focus Engineering resouces on building - less on testing
+3. Never lose a customer due to poorly tested code
+4. Update legacy software with confidence
+5. And everything above ^^^
 
 # Getting Started
 [Request Early Access][3], and instructions will follow.
