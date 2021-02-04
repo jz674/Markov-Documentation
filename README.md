@@ -1,41 +1,44 @@
-# [Markov.run][5]: Catch Bugs Before Your Users Do
+# [Markov.run][5]
  
-Markov automates the manual process of creating test scripts to make sure code changes do not break existing functionality.
+Markov creates 'synthetic users' to catch bugs before your users do. These 'synthetic users' behave just like your real users. 
 
-Focused on the [API/Service/Business layer of testing][2], Markov provides confidence that new functionalities will not systemically break previously developed software. We do this by enabling you to [regression test][1] on-demand within your Git workflow.
+# How Does Markov Work?
 
-Markov generates 'Virtual Users", which behave and act just as your real user would, to catch issues in your staging environment. More specifically, Markov mimics human users for your application in terms of their HTTP traffic. All Markov needs to take in are your API requests. Best yet, Markov is totally customizable: you have total autonomy in choosing which requests you want to forward to us and which features to test.
+All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us and which features to test.
 
-Markov operates in two steps. Below is a diagram depicting the functionality of the service:
+Essentially, Markov operates in two steps. Below is a diagram depicting the functionality of the service:
 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
 
-# 0. Business Value
-1. Reduce time spent handcrafting Automation Scripts
-2. Realistic test your application at scale before Production
-3. Extensive coverage on happy paths and edge cases
+# Value Proposition - Web App Startups 
+1. Reduce the manual labor of handcrafting user scripts
+2. Push new code/changes with confidence that previously built software still works
+3. Spent less time API/Service Testing and more on growing product
 4. Seamless integration - No maintenance or specialized training needed
 5. Dead simple to get started
 
-# 1. Getting Started
+# Value Proposition - Enterprise
+1. Update legacy software with confidence
+2. And everything above ^^^
+
+# Getting Started
 [Request Early Access][3], and instructions will follow.
 
-# 2. Pricing
-[Request Early Access and Beta Test][3], and you will get Markov for free.
+# Pricing
+[Request Early Access][3], and you will receive exclusive discounts only for Early Adopters
 
-# 3. Demo
-Contrary to [demo][4], Markov v1.0 will have Command Line Interface - not a Graphic User Inferface
+# Demo
+Markov will initally be a CLI. But here is the [UI][4] once we expand to other markets.
 
-# 4. Contact
-Reach out to: jz674@cornell.edu 
+# Contact
+Reach us at jz674@cornell.edu 
 
 # Note
-Beta expected to launch in May 2021 - high hopes it will arrive sooner :) 
-https://www.youtube.com/watch?v=hv1AR6asbtA
+Beta is expected to launch in May 2021 - high hopes it will arrive sooner :) 
 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API/Service/Business layer of testing" 
 [3]: https://markov.run/ "Request Early Access" 
-[4]: https://www.youtube.com/watch?v=hv1AR6asbtA "Demo"
+[4]: https://www.youtube.com/watch?v=hv1AR6asbtA "UI"
 [5]: https://markov.run/ "Markov.run" 
 
