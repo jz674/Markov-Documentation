@@ -1,4 +1,4 @@
-src="https://github.com/jz674/Markov_Documentation/blob/main/assets/logo.png" 
+<src="https://github.com/jz674/Markov_Documentation/blob/main/assets/logo.png" 
 alt="Demo" width="800" height="300" border="10" /></a>
 
 # [Markov.run][5]
