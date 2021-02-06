@@ -4,18 +4,18 @@ Markov creates 'synthetic users' to catch bugs before your users do. These 'synt
 
 # Construction Zone (Sorry 😅)-----------------------------------------
 # Table of Contents
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+- [How Does Markov Work?](#heading)
+- [Value Proposition - Web App Startups](#heading-1)
+- [Value Proposition - Enterprise](#heading-2)
+- [Getting Started](#heading-3)
+- [Pricing](#heading-4)
+- [Demo](#heading-5)
+- [Contact](#heading-6)
+
     
 # Construction Zone (Sorry 😅)-----------------------------------------
 
+## How Does Markov Work?
 
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us and which features to test.
 
@@ -23,8 +23,6 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
 
-# Value Proposition - Web App Startups 
-<a name="b"/>
 ## Value Proposition - Web App Startups
 1. Reduce the manual labor of handcrafting user scripts
 2. Push new code/changes with confidence that previously built software still works
