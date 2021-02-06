@@ -13,6 +13,7 @@ Markov creates [synthetic users][6] to proactively test your software and trigge
 - [Demo](#demo)
 - [Contact](#contact)
 - [Note](#note)
+- [FAQ](#faq)
 
 <a name="how-does-markov-work?"></a>
 # How Does Markov Work?
