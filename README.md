@@ -1,6 +1,6 @@
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Screen%20Shot%202021-02-06%20at%203.12.06%20AM.png)
 
-# [Markov.run][5]
+# [Markov.run]: Automatically Design and Create Test Cases[5]
  
 Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. Our synthetic users behave just like your real users would, allowing Markov to ensure previously developed software still works as expected accurately. Markov empowers companies of all sizes to focus less on [regression testing][1] and more on innovating.
 
