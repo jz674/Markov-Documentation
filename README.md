@@ -6,7 +6,8 @@ Markov creates 'synthetic users' to catch bugs before your users do. These 'synt
 ##### Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
-...snip...    
+
+
 <a name="headers"/>
 ## Headers
 
