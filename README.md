@@ -2,7 +2,7 @@
 
 # [Markov.run][5] 
 ## Made by Developers for Developers
-### Automatically Design and Create Synethic Test Cases With Ease
+### Design and Create Behavioral Scripts Effortlessly and Automatically
  
 Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. Our synthetic users behave just like your real users would, allowing Markov to ensure previously developed software still works as expected accurately. Markov is self-driven and 
 
