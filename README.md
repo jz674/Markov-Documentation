@@ -55,6 +55,7 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 
 # FAQ
 1. How will Markov handle the privacy of our users' API calls?
+> Markov will serialized your forwarded API calls to ensure upmost security
 
 2. What will we need to get started?
 
