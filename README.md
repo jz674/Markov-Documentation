@@ -31,8 +31,8 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 [Request Early Access][3], and you will receive exclusive discounts only for our Early Adopters
 
 # Demo
-<a href="https://www.youtube.com/watch?v=hv1AR6asbtA"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=hv1AR6asbtA"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_online_video_ivvq%20(1).svg" 
+alt="Demo" width="240" height="180" border="10" /></a>
 
 # Contact
 Reach us at jz674@cornell.edu 
