@@ -1,4 +1,4 @@
-![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Yellow%20and%20Blue%20English%20Tutor%20LinkedIn%20Banner%20(1).png)
+![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Screen%20Shot%202021-02-06%20at%203.12.06%20AM.png)
 
 # [Markov.run][5]
  
