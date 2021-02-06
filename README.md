@@ -45,7 +45,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 # Demo
 <a href="https://www.youtube.com/watch?v=hv1AR6asbtA" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
-alt="Demo" width="800" height="400" border="10" /></a>
+alt="Demo" width="1000" height="300" border="10" /></a>
 
 
 # Contact
