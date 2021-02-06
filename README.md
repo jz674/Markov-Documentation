@@ -4,13 +4,11 @@ Markov creates 'synthetic users' to catch bugs before your users do. These 'synt
 
 # Table of Contents
 ##### Table of Contents  
-[How Does Markov Work?](#a)  
-[Value Proposition - Web App Startups(#b)
-)
-
-<a name="a"/>
-# How Does Markov Work?
-
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us and which features to test.
 
