@@ -65,10 +65,8 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 
 
 # Contact
-Business: [Jeff Zhang](mailto:jz674@cornell.edu?subject=[Markov&Documentation&Markov&Documentation])
-Techincal : [Jonathan Ou](mailto:jto27@cornell.edu?subject=[Markov&Documentation&Inquiry])
-
-[Jeff](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+Business: [Jeff](mailto:jz674@cornell.edu?subject=[Markov&Documentation&Markov&Documentation])
+Techincal : [Jonathan](mailto:jto27@cornell.edu?subject=[Markov&Documentation&Inquiry])
 
 
 
