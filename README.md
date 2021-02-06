@@ -1,3 +1,5 @@
+https://github.com/jz674/Markov_Documentation/blob/main/assets/Yellow%20and%20Blue%20English%20Tutor%20LinkedIn%20Banner%20(1).png
+
 # [Markov.run][5]
  
 Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. Our synthetic users behave just like your real users would, allowing Markov to accurately ensure previously developed software still works as expected. Markov empowers companies of all sizes to focus less on [regression testing][1] and more on innovating.
