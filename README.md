@@ -10,8 +10,7 @@ Markov creates 'synthetic users' to catch bugs before your users do. These 'synt
 
 <a name="a"/>
 ## How Does Markov Work?
-<a name="b"/>
-## Value Proposition - Web App Startups
+
 
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us and which features to test.
 
@@ -20,6 +19,8 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
 
 # Value Proposition - Web App Startups 
+<a name="b"/>
+## Value Proposition - Web App Startups
 1. Reduce the manual labor of handcrafting user scripts
 2. Push new code/changes with confidence that previously built software still works
 3. Spent less time API/Service Testing and more on growing product
