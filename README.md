@@ -59,7 +59,7 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 2. What will we need to get started?
 
 3. How is Markov different from other testing libraries like Jest or Selenium?
-All those require manually writing test scripts, regular maintained, high level of expertise, and very disruptive to set up
+> All those require manually writing test scripts, regular maintained, high level of expertise, and very disruptive to set up
 Markov addresses all of those pain points
 
 
