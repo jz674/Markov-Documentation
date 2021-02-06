@@ -12,7 +12,8 @@ Markov creates 'synthetic users' to catch bugs before your users do. These 'synt
 - [Demo](#heading-5)
 - [Contact](#heading-6)
 
-    
+    <!-- toc -->
+
 # Construction Zone (Sorry 😅)-----------------------------------------
 
 ## How Does Markov Work?
