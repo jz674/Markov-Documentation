@@ -4,10 +4,9 @@
 ## Made by Developers for Developers
 ### Design and Create Behavioral Scripts Effortlessly and Automatically
  
-Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. Our synthetic users behave just like your real users would, allowing Markov to ensure previously developed software still works as expected accurately. Markov is self-driven and 
+Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. Our synthetic users behave just like your real users would, allowing Markov to ensure previously developed software still works as expected. Unliked other testing tools, Markov applies a probabilistic model for creating test cases and is self-driven with no maintaince or special training needed.
 
-
-Markov empowers companies of all sizes to focus less on [regression testing][1] and more on innovating.
+### Markov empowers companies of all sizes to redirect their limited resources to innovating and launching to market faster.
 
 # Table of Contents
 - [How Does Markov Work?](#how-does-markov-work?)
@@ -18,10 +17,10 @@ Markov empowers companies of all sizes to focus less on [regression testing][1] 
 - [Demo](#demo)
 - [Contact](#contact)
 - [Note](#note)
+# How Does Markov Work?
 - [FAQ](#faq)
 
 <a name="how-does-markov-work?"></a>
-# How Does Markov Work?
 
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us and which features to test.
 
