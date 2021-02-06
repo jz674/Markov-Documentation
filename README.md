@@ -1,6 +1,6 @@
 # [Markov.run][5]
  
-Markov creates 'synthetic users' to proactively test your software and trigger issues before your users do. These 'synthetic users' behave just like your real users would, allowing Markov to accurately ensure previously developed software still works as expected. Markov empowers companies of all sizes to focus less on [regression testing][1] and more on innovating.
+Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. These 'synthetic users' behave just like your real users would, allowing Markov to accurately ensure previously developed software still works as expected. Markov empowers companies of all sizes to focus less on [regression testing][1] and more on innovating.
 
 # Table of Contents
 - [How Does Markov Work?](#how-does-markov-work?)
@@ -61,4 +61,5 @@ Beta is expected to launch in May 2021 - high hopes we can launch sooner :)
 [3]: https://markov.run/ "Request Early Access" 
 [4]: https://www.youtube.com/watch?v=hv1AR6asbtA "UI"
 [5]: https://markov.run/ "Markov.run" 
+[6]: https://raygun.com/blog/synthetic-testing/ "synthetic users"
 
