@@ -65,8 +65,8 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 
 
 # Contact
-Business: [Jeff](mailto:jz674@cornell.edu?subject=[Markov&Documentation&Markov&Documentation])
-Techincal : [Jonathan](mailto:jto27@cornell.edu?subject=[Markov&Documentation&Inquiry])
+- Business: [Jeff](mailto:jz674@cornell.edu?subject=[Markov&Documentation&Markov&Documentation])
+- Techincal : [Jonathan](mailto:jto27@cornell.edu?subject=[Markov&Documentation&Inquiry])
 
 
 
