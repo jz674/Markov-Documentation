@@ -31,7 +31,8 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 [Request Early Access][3], and you will receive exclusive discounts only for our Early Adopters
 
 # Demo
-Markov will initally be a CLI. But here is the [UI][4] once we expand to other markets.
+<a href="https://www.youtube.com/watch?v=hv1AR6asbtA"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # Contact
 Reach us at jz674@cornell.edu 
