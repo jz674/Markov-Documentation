@@ -34,6 +34,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 4. Seamless integration - No maintenance or specialized training needed
 5. Dead simple to get started
 
+<a name="#heading-3"></a>
 ## Value Proposition - Enterprise
 1. Reduce Quality Assurance staffing
 2. Focus Engineering resouces on building - less on testing
@@ -41,6 +42,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 4. Update legacy software with confidence
 5. And everything above ^^^
 
+<a name="#heading-4"></a>
 ## Getting Started
 [Request Early Access][3], and instructions will follow.
 
