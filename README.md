@@ -9,7 +9,7 @@ Markov creates 'synthetic users' to catch bugs before your users do. These 'synt
 )
 
 <a name="a"/>
-## How Does Markov Work?
+# How Does Markov Work?
 
 
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us and which features to test.
