@@ -6,8 +6,8 @@ Markov creates [synthetic users][6] to proactively test your software and trigge
 
 # Table of Contents
 - [How Does Markov Work?](#how-does-markov-work?)
-- [Value Proposition - Web App Startups](#value-proposition---web-app-startups)
-- [Value Proposition - Enterprise](#value-proposition---enterprise)
+- [Value Proposition - Business](#value-proposition---business)
+- [Value Proposition - Software](#value-proposition---software)
 - [Getting Started](#getting-started)
 - [Pricing](#pricing)
 - [Demo](#demo)
