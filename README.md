@@ -2,7 +2,7 @@
  
 Markov creates 'synthetic users' to catch bugs before your users do. These 'synthetic users' behave just like your real users. 
 
-# Construction Zone (Sorry 😅)-----------------------------------------
+### Construction Zone (Sorry 😅)-----------------------------------------
 # Table of Contents
 - [How Does Markov Work?](#heading)
 - [Value Proposition - Web App Startups](#heading-1)
@@ -16,7 +16,7 @@ Markov creates 'synthetic users' to catch bugs before your users do. These 'synt
 
     <!-- toc -->
 
-# Construction Zone (Sorry 😅)-----------------------------------------
+### Construction Zone (Sorry 😅)-----------------------------------------
 <a name="heading"></a>
 ## How Does Markov Work?
 
@@ -46,16 +46,20 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 ## Getting Started
 [Request Early Access][3], and instructions will follow.
 
+<a name="#heading-5"></a>
 ## Pricing
 [Request Early Access][3], and you will receive exclusive discounts only for our Early Adopters
 
+<a name="#heading-6"></a>
 ## Demo
 <a href="https://www.youtube.com/watch?v=hv1AR6asbtA"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_online_video_ivvq%20(1).svg" 
 alt="Demo" width="400" height="280" border="10" /></a>
 
+<a name="#heading-7"></a>
 ## Contact
 Reach us at jz674@cornell.edu 
 
+<a name="#heading-8"></a>
 ## Note
 Beta is expected to launch in May 2021 - high hopes we can launch sooner :) 
 
