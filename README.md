@@ -5,7 +5,7 @@ Markov creates 'synthetic users' to catch bugs before your users do. These 'synt
 ### Construction Zone (Sorry 😅)-----------------------------------------
 # Table of Contents
 - [How Does Markov Work?](#heading)
-- [Value Proposition - Web App Startups](#heading1)
+- [Value Proposition - Web App Startups](#value-proposition---web-app-startups)
 - [Value Proposition - Enterprise](#heading-2)
 - [Getting Started](#heading-3)
 - [Pricing](#heading-4)
