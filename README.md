@@ -51,8 +51,8 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 alt="Demo" width="1000" height="300" border="10" /></a>
 
 # Contact
-- Business: [Jeff](mailto:jz674@cornell.edu?subject=[Github&Markov&Documentation&Markov&Documentation])
-- Techincal: [Jonathan](mailto:jto27@cornell.edu?subject=[Githu]bMarkov&Documentation&Inquiry)
+- Business: [Jeff](mailto:jz674@cornell.edu?subject=[Github]%Markov%Documentation%Inquiry)
+- Techincal: [Jonathan](mailto:jto27@cornell.edu?subject=[Github]%Markov%Documentation%Inquiry)
 
 # FAQ
 1. How will Markov handle the privacy of our users' API calls?
