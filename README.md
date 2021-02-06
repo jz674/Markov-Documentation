@@ -6,9 +6,8 @@
  
 Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. Our synthetic users behave just like your real users would, allowing Markov to ensure previously developed software still works as expected. Unliked other testing tools, Markov applies a probabilistic model for creating test cases and is self-driven with no maintaince or special training needed.
 
-### Markov empowers companies of all sizes to redirect their limited resources to innovating and launching to market faster.
-
 # Table of Contents
+- [Mission](#mission)
 - [How Does Markov Work?](#how-does-markov-work?)
 - [Value Proposition - Business](#value-proposition---business)
 - [Value Proposition - Software](#value-proposition---software)
@@ -17,11 +16,16 @@ Markov creates [synthetic users][6] to proactively test your software and trigge
 - [Demo](#demo)
 - [Contact](#contact)
 - [Note](#note)
-# How Does Markov Work?
 - [FAQ](#faq)
 
-<a name="how-does-markov-work?"></a>
 
+
+# Mission
+Empowers companies of all sizes to redirect their limited resources to innovating and launching to market without compromsing user experience.
+
+
+
+# How Does Markov Work
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us and which features to test.
 
 Essentially, Markov operates in two steps. Below is a diagram depicting the functionality of the service:
