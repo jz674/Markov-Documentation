@@ -58,6 +58,7 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 > Markov will serialized your forwarded API calls to ensure upmost security
 
 2. What will we need to get started?
+> TBD
 
 3. How is Markov different from other testing libraries like Jest or Selenium?
 > All those require manually writing test scripts, regular maintained, high level of expertise, and very disruptive to set up
