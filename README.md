@@ -5,9 +5,9 @@ Markov creates 'synthetic users' to catch bugs before your users do. These 'synt
 # Table of Contents
 ##### Table of Contents  
 [How Does Markov Work?](#a)  
-[Value Proposition - Web App Startups](#b)
-)  
-...snip...    
+[Value Proposition - Web App Startups(#b)
+)
+
 <a name="a"/>
 ## How Does Markov Work?
 <a name="b"/>
