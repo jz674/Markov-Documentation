@@ -12,8 +12,6 @@ Markov creates 'synthetic users' to catch bugs before your users do. These 'synt
 - [Contact](#contact)
 - [Note](#note)
 
-
-
 <a name="how-does-markov-work?"></a>
 ## How Does Markov Work?
 
@@ -48,7 +46,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 <a name="#heading-5"></a>
 ## Demo
 <a href="https://www.youtube.com/watch?v=hv1AR6asbtA"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_online_video_ivvq%20(1).svg" 
-alt="Demo" width="400" height="280" border="10" /></a>
+alt="Demo" width="800" height="480" border="10" /></a>
 
 <a name="#heading-6"></a>
 ## Contact
