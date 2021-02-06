@@ -1,6 +1,6 @@
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Screen%20Shot%202021-02-06%20at%203.12.06%20AM.png)
 
-# [Markov.run][5] Made by Developers for Developers: Automatically Design and Create Synethic Test Cases With Ease
+# [Markov.run][5] ## Made by Developers for Developers: Automatically Design and Create Synethic Test Cases With Ease
  
 Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. Our synthetic users behave just like your real users would, allowing Markov to ensure previously developed software still works as expected accurately. Markov is self-driven and 
 
