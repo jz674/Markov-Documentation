@@ -1,6 +1,6 @@
 # [Markov.run][5]
  
-Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. These 'synthetic users' behave just like your real users would, allowing Markov to accurately ensure previously developed software still works as expected. Markov empowers companies of all sizes to focus less on [regression testing][1] and more on innovating.
+Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. Our synthetic users behave just like your real users would, allowing Markov to accurately ensure previously developed software still works as expected. Markov empowers companies of all sizes to focus less on [regression testing][1] and more on innovating.
 
 # Table of Contents
 - [How Does Markov Work?](#how-does-markov-work?)
