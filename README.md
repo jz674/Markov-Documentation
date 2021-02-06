@@ -3,13 +3,16 @@
 Markov creates 'synthetic users' to catch bugs before your users do. These 'synthetic users' behave just like your real users. 
 
 # Table of Contents
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
+- [Heading](#heading)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Heading](#heading-2)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
 
-
-<a name="headers"/>
-## Headers
 
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us and which features to test.
 
