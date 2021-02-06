@@ -17,7 +17,7 @@ Markov creates 'synthetic users' to catch bugs before your users do. These 'synt
     <!-- toc -->
 
 # Construction Zone (Sorry 😅)-----------------------------------------
-
+<a name="heading"></a>
 ## How Does Markov Work?
 
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us and which features to test.
@@ -26,6 +26,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
 
+<a name="#heading-1"></a>
 ## Value Proposition - Web App Startups
 1. Reduce the manual labor of handcrafting user scripts
 2. Push new code/changes with confidence that previously built software still works
