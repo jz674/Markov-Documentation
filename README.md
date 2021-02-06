@@ -5,7 +5,7 @@ Markov creates 'synthetic users' to catch bugs before your users do. These 'synt
 ### Construction Zone (Sorry 😅)-----------------------------------------
 # Table of Contents
 - [How Does Markov Work?](#heading)
-- [Value Proposition - Web App Startups](#heading-1)
+- [Value Proposition - Web App Startups](#heading1)
 - [Value Proposition - Enterprise](#heading-2)
 - [Getting Started](#heading-3)
 - [Pricing](#heading-4)
@@ -26,7 +26,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
 
-<a name="#heading-1"></a>
+<a name="#heading1"></a>
 ## Value Proposition - Web App Startups
 1. Reduce the manual labor of handcrafting user scripts
 2. Push new code/changes with confidence that previously built software still works
