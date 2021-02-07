@@ -19,7 +19,7 @@ Markov creates [synthetic users][6] to proactively test your software and trigge
 - [FAQ](#faq)
 
 # Mission
-Empower companies of all sizes to redirect their limited resources towards innovation and launching to market faster without compromsing user experience.
+To empower companies of all sizes to focus their Engineering talent towards innovation and launching to market faster without compromsing user experience.
 
 # How Does Markov Work
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us and which features to test.
