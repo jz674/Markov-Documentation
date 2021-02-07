@@ -71,7 +71,7 @@ Markov addresses all of those pain points
 
 
 # Note
-MVP coming soon - [Sign Up for Early Access][3]!
+Beta releasing soon - [Sign Up for Early Access][3]!
 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API/Service esting" 
