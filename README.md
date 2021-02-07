@@ -1,7 +1,7 @@
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Screen%20Shot%202021-02-06%20at%203.12.06%20AM.png)
 
 # [Markov.run][5] 
-## Design and Create Test Scripts Automatically
+## Design, Create, and Update Test Scripts Automatically
 > Made by Developers for Developers
 
 Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. Our synthetic users behave just like your real users would, allowing Markov to ensure previously developed software still works as expected. Unlike other testing tools, Markov applies a probabilistic model for creating test cases and is self-driven with no maintenance or special training needed.
