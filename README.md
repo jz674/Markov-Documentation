@@ -55,8 +55,8 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 alt="Demo" width="1000" height="300" border="10" /></a>
 
 # Contact
-- Business: [Jeff](mailto:jz674@cornell.edu?subject=[Github]%20Markov%20Documentation%20Inquiry)
-- Techincal: [Jonathan](mailto:jto27@cornell.edu?subject=[Github]%20Markov%20Documentation%20Inquiry)
+- Business: [Jeff][7]
+- Techincal: [Jonathan][8]
 
 # FAQ
 1. How will Markov handle the privacy of our users' API calls?
@@ -79,4 +79,5 @@ Beta is expected to launch in May 2021 - high hopes we can launch sooner :)
 [4]: https://www.youtube.com/watch?v=hv1AR6asbtA "UI"
 [5]: https://markov.run/ "Markov.run" 
 [6]: https://raygun.com/blog/synthetic-testing/ "synthetic users"
-
+[7]: https://www.linkedin.com/in/jz674/ "Jeff"
+[8]: https://www.linkedin.com/in/jto98/ "Jonathan"
