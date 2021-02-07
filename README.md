@@ -4,7 +4,7 @@
 ## Design and Create Test Scripts Automatically
 > Made by Developers for Developers
 
-Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. Our synthetic users behave just like your real users would, allowing Markov to ensure previously developed software still works as expected. Unliked other testing tools, Markov applies a probabilistic model for creating test cases and is self-driven with no maintaince or special training needed.
+Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. Our synthetic users behave just like your real users would, allowing Markov to ensure previously developed software still works as expected. Unlike other testing tools, Markov applies a probabilistic model for creating test cases and is self-driven with no maintenance or special training needed.
 
 # Table of Contents
 - [Mission](#mission)
