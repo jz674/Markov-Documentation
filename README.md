@@ -45,10 +45,10 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 5. Update your legacy API or Add new API library with confidence that the product has not regressed
 
 # Getting Started
-[Request Early Access][3], and instructions will follow.
+[Sign Up for Early Access][3], and instructions will follow.
 
 # Pricing
-[Request Early Access][3], and you will receive exclusive discounts only for our Early Adopters
+[Sign Up for Early Access][3], and you will receive exclusive discounts only for our Early Adopters
 
 # Demo
 <a href="https://www.youtube.com/watch?v=hv1AR6asbtA" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
@@ -71,7 +71,8 @@ Markov addresses all of those pain points
 
 
 # Note
-Beta is expected to launch in May 2021 - high hopes we can launch sooner :) 
+MVP coming soon
+[Sign Up for Early Access][3]!
 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API/Service esting" 
