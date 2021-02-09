@@ -37,11 +37,11 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 
 # Why use Markov? - Software
-1. Regression testing
-2. Fearlessly update legacy software
-3. Auto create and update synthetic traffic
-4. Load testing 
-5. Easy to set up
+1. Mimic real usage patterns
+2. Regression test and load test on git commit
+3. Synthetic monitor test traffic 
+4. No maintenance or special training needed
+5. Super easy to set up
 
 
 
