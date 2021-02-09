@@ -30,7 +30,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
  
 # Why use Markov? - Business
 1. Find bugs before your users do
-2. Reduce QA Automation staffing
+2. Reduce QA headcount
 3. Save hours handcrafting scripts
 4. Launch faster without compromising quality
 5. Modernize your legacy software
