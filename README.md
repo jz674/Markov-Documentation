@@ -4,7 +4,7 @@
 ## Automatically Design and Update Test Scripts 
 > Made by Developers for Developers
 
-Markov creates [synthetic users][6] that behave like your real users. Our synthetic users will forward their [API request traffic][2] to your test server, where you can try [synthetic monitoring][9] your application's health anytime you commit a change.
+Markov creates [synthetic users][6] that behave like your real users. Our synthetic users will forward their [API request traffic][2] to your test server, where you can [synthetic monitor][9] your application's health anytime you commit a change.
 
 # Table of Contents
 - [Mission](#mission)
@@ -82,4 +82,4 @@ Beta releasing soon - [Sign Up for Early Access][3]!
 [6]: https://raygun.com/blog/synthetic-testing/ "synthetic users"
 [7]: https://www.linkedin.com/in/jz674/ "Jeff"
 [8]: https://www.linkedin.com/in/jto98/ "Jonathan"
-[9]: https://smartbear.com/learn/performance-monitoring/what-is-synthetic-monitoring/ "synthetic monitoring"
+[9]: https://smartbear.com/learn/performance-monitoring/what-is-synthetic-monitoring/ "synthetic monitor"
