@@ -4,7 +4,7 @@
 ## Automatically Design and Update Synthetic Traffic for Faster Go-To-Market
 > Made by Developers for Developers
 
-Markov creates [synthetic users][6] that behave like your real users. Our synthetic users will forward their API request traffic to your test server, where you can try [synthetic monitoring][9] your application's health anytime you commit a change.
+Markov creates [synthetic users][6] that behave like your real users. Our synthetic users will forward their [API request traffic][2] to your test server, where you can try [synthetic monitoring][9] your application's health anytime you commit a change.
 
 # Table of Contents
 - [Mission](#mission)
@@ -75,7 +75,7 @@ Markov addresses all of those pain points
 Beta releasing soon - [Sign Up for Early Access][3]!
 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
-[2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API/Service esting" 
+[2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API request traffic" 
 [3]: https://markov.run/ "Request Early Access" 
 [4]: https://www.youtube.com/watch?v=hv1AR6asbtA "UI"
 [5]: https://markov.run/ "Markov.run" 
