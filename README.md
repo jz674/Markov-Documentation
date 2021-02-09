@@ -4,7 +4,7 @@
 ## Automatically Design and Update Synthetic Traffic for Faster Go-To-Market
 > Made by Developers for Developers
 
-Markov creates [synthetic users][6] to proactively test your software and trigger issues before your users do. Our synthetic users behave just like your real users would, allowing Markov to ensure previously developed software still works as expected. Unlike other testing tools, Markov applies a probabilistic model for creating test cases and is self-driven with no maintenance or special training needed.
+Markov creates [synthetic users][6] that behave like your real users. Our synthetic users will forward their API request traffic to your test server, where you can try synthetic monitoring your application's health anytime you commit a change.
 
 # Table of Contents
 - [Mission](#mission)
@@ -19,7 +19,7 @@ Markov creates [synthetic users][6] to proactively test your software and trigge
 - [FAQ](#faq)
 
 # Mission
-To empower companies of all sizes to focus their Engineering talent towards innovation and launching to market faster without compromsing user experience.
+To empower companies of all sizes to focus on innovation and launching to markets faster without compromsing user experience.
 
 # How Does Markov Work
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us and which features to test.
@@ -28,21 +28,22 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
  
-# Value Proposition - Business
-1. Reduce Quality Assurance staffing
-2. Reduce the manual labor of handcrafting user scripts
-3. Launch products to market faster without compromising quality
-4. Aggressively test your software, so users don't find issues first
-5. Empower your Engineering team to spend more time innovating and less concerned with testing
-6. Modernize your legacy software for faster performance and better user experience
-7. Super easy to set up, non-disruptive, no specialized training needed, and self-maintained
+# Why use Markov? - Business
+1. Find bugs before your users do
+2. Reduce QA Automation staffing
+3. Save hours handcrafting scripts
+4. Launch faster without compromising quality
+5. Modernize your legacy software
 
-# Value Proposition - Software
-1. Stop manually creating developing user scripts to [API/Service testing][2] 
-2. Focus your limited Engineering resources on developing features and improving performance
-3. Test thoroughly against the most active and common paths your users take
-4. Execute regression test suite conveniently from your Command Line Interface for faster results
-5. Update your legacy API or Add new API library with confidence that the product has not regressed
+
+# Why use Markov? - Software
+1. Regression testing
+2. Fearlessly update legacy software
+3. Auto create and update synthetic traffic
+4. Load testing 
+5. Easy to set up
+
+
 
 # Getting Started
 [Sign Up for Early Access][3], and instructions will follow.
