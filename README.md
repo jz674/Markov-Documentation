@@ -1,7 +1,7 @@
 # [markov.run][5] 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Screen%20Shot%202021-02-06%20at%203.12.06%20AM.png)
 
-## Automatically Design and Update Synthetic Traffic to Go-To-Market Faster
+## Automatically Design and Update Test Scripts 
 > Made by Developers for Developers
 
 Markov creates [synthetic users][6] that behave like your real users. Our synthetic users will forward their [API request traffic][2] to your test server, where you can try [synthetic monitoring][9] your application's health anytime you commit a change.
