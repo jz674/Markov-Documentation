@@ -9,8 +9,8 @@ Markov creates [synthetic users][6] that behave like your real users. Our synthe
 # Table of Contents
 - [Mission](#mission)
 - [How Does Markov Work?](#how-does-markov-work?)
-- [Value Proposition - Business](#value-proposition---business)
-- [Value Proposition - Software](#value-proposition---software)
+- [Why use Markov? - Business](#value-proposition---business)
+- [Why use Markov? - Businesse](#value-proposition---software)
 - [Getting Started](#getting-started)
 - [Pricing](#pricing)
 - [Demo](#demo)
