@@ -4,7 +4,7 @@
 ## Automatically Design and Update Test Scripts Based on Customer Behaviors
 > Made by Developers for Developers
 
-Markov creates [synthetic users][6] that behave like your real users. Our synthetic users will forward their [API request traffic][2] to your test server, where you can [synthetic monitor][9] your application's health anytime you commit a change.
+Markov automates the process of creating, updating, and running test scripts that model your customer's web traffic. Each script represents a "virtual" user that is interacting realistically with the API layer of your application.
 
 # Table of Contents
 - [Mission](#mission)
@@ -22,7 +22,7 @@ Markov creates [synthetic users][6] that behave like your real users. Our synthe
 To empower companies of all sizes to focus on innovation and launching to markets faster without compromsing user experience.
 
 # How Does Markov Work
-All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us and which features to test.
+All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us, and in turn, which features to test.
 
 Essentially, Markov operates in two steps. Below is a diagram depicting the functionality of the service:
 
@@ -37,11 +37,10 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 
 # Why use Markov? - Software
-1. Mimic real usage patterns
-2. Regression test and load test on git commit
-3. Synthetic monitor test traffic 
+1. Regression test on demand, as each script can either focus on a specific part or on the integration of different parts of your API
+2. Realistically load test on demand, as Markov allows you to configure the number of scripts that you want to run at a given time
 4. No maintenance or special training needed
-5. Super easy to set up
+5. Super easy to set up, and built into your git workflow
 
 
 
