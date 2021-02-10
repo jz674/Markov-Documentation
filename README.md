@@ -4,7 +4,7 @@
 ## Automatically Design and Update Test Scripts Based on Customer Behaviors
 > Made by Developers for Developers
 
-Markov automates the process of creating, updating, and running test scripts that model your customer's web traffic. Each script represents a "virtual" user that is interacting realistically with the API layer of your application.
+Markov automates the process of creating, updating, and running test scripts that model your customer's web traffic. Each script creates the abstraction of a "virtual" user that is interacting realistically with the API layer of your application.
 
 # Table of Contents
 - [Mission](#mission)
