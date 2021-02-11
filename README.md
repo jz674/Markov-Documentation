@@ -4,7 +4,7 @@
 ## Automatically Design and Update Test Scripts
 > Made by Developers for Developers
 
-Markov automates the process of creating, updating, and running test scripts that model your customer's web traffic. Each script creates the abstraction of a "virtual" user that is interacting realistically with the API layer of your application.
+Markov automates the process of creating, updating, and running test scripts that model your customer's web traffic. Each script creates the abstraction of a synthetic user that is interacting realistically with the API layer of your application.
 
 # Table of Contents
 - [Mission](#mission)
@@ -38,7 +38,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 # Why use Markov? - Software
 1. Regression test and load test realistically on-demand
-2. Config # of scripts and test specific parts of your API 
+2. Config # of scripts and specific parts of your API to test
 3. No maintenance or special training needed
 4. Super easy to set up, and built into your git workflow
 
