@@ -39,8 +39,9 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 # Why use Markov? - Software
 1. Regression test and load test realistically on-demand
 2. Config # of scripts and specific parts of your API to test
-3. No maintenance or special training needed
-4. Super easy to set up, and built into your git workflow
+3. Monitor app's health before each change
+4. No maintenance or special training needed
+5. Super easy to set up, and built into your git workflow
 
 
 
