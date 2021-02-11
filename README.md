@@ -37,10 +37,10 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 
 # Why use Markov? - Software
-1. Regression test on demand, as each script can either focus on a specific part or on the integration of different parts of your API
-2. Realistically load test on demand, as Markov allows you to configure the number of scripts that you want to run at a given time
-4. No maintenance or special training needed
-5. Super easy to set up, and built into your git workflow
+1. Regression test and load test realistically on-demand
+2. Config # of scripts and test specific parts of your API 
+3. No maintenance or special training needed
+4. Super easy to set up, and built into your git workflow
 
 
 
