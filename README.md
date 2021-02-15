@@ -11,8 +11,8 @@ Markov does this by forwarding synthetic user traffic to your test servers. The 
 # Table of Contents
 - [Mission](#mission)
 - [How Does Markov Work?](#how-does-markov-work?)
-- [Why use Markov? - Engineering/Product Managers](#why-use-markov---business)
-- [Why use Markov? - Software Engineers](#why-use-markov---software)
+- [Why use Markov? - Engineering/Product Managers](#why-use-markov---engineering/product-managers)
+- [Why use Markov? - Software Engineers](#why-use-markov---software-engineers)
 - [Getting Started](#getting-started)
 - [Pricing](#pricing)
 - [Demo](#demo)
