@@ -1,12 +1,12 @@
 # [markov.run][5] 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Screen%20Shot%202021-02-06%20at%203.12.06%20AM.png)
 
-## Test Your Test Cases
+## Quality Assure Your Test Infrasture
 > Made by Developers for Developers
 
-Markov ensures that any changes developers make to their application still perform as expected.
+Markov assures that any code changes you make does not regress your application. 
 
-Markov does this by forwarding synthetic user traffic to your test servers. The synthetic traffic models your customers' behavior so we can realistically test the robustness of your test cases and trigger bugs/edge cases before your users do. 
+Markov forwards synthetic traffic to test your test cases. Our synthetic traffic models your customers' behavior to realistically test the robustness of your application. Our goal is to break the API layer of your application with our synthetic traffic before your customers do. 
 
 # Table of Contents
 - [Mission](#mission)
