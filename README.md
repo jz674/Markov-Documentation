@@ -1,7 +1,7 @@
 # [markov.run][5] 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Screen%20Shot%202021-02-06%20at%203.12.06%20AM.png)
 
-## Quality Assure Your Test infrastructure
+## Quality Assure Your Test Infrastructure
 > Made by Developers for Developers
 
 Markov assures comprehensive and quality test cases by forwarding synthetic traffic that mimics your customers' behavior. 
