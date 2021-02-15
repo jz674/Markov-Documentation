@@ -11,8 +11,8 @@ Markov does this by forwarding synthetic user traffic to your test servers. The 
 # Table of Contents
 - [Mission](#mission)
 - [How Does Markov Work?](#how-does-markov-work?)
-- [Why use Markov? - Business](#why-use-markov---business)
-- [Why use Markov? - Software](#why-use-markov---software)
+- [Why use Markov? - Engineering/Product Managers](#why-use-markov---business)
+- [Why use Markov? - Software Engineers](#why-use-markov---software)
 - [Getting Started](#getting-started)
 - [Pricing](#pricing)
 - [Demo](#demo)
@@ -30,19 +30,20 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
  
-# Why use Markov? - Business
-1. Trigger bugs before your customers do
-2. Identify gaps in your test cases
-3. Analyze and forecast user behavior patterns
-4. Feel confident about happy paths and random edge cases
+# Why use Markov? - Engineering/Product Managers
+1. Aggressively trigger bugs before your customers do
+2. Auto create and update suites of regression tests
+3. Reduce downtime and deployment time
+4. Analyze and forecast customer behavior patterns
 5. No maintenance or special training needed
 
-# Why use Markov? - Software
-1. Update test cases before a bad user experience
-2. Config traffic volume and duration
-3. Specify parts of your API to test
-4. Built into your git workflow
-5. Super easy setup 
+
+# Why use Markov? - Software Engineers
+1. Record and replay broken scenarios
+2. Assure quality test coverage before negative user exp.
+3. Realistically load/stress/performance/regression test
+4. Specify parts of your API to test
+5. Super easy setup and built into your git workflow
 
 # Getting Started
 
