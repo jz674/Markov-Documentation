@@ -11,7 +11,7 @@ Markov does this by forwarding synthetic user traffic to your test servers. The 
 # Table of Contents
 - [Mission](#mission)
 - [How Does Markov Work?](#how-does-markov-work?)
-- [Why use Markov? - Engineering/Product Managers](#why-use-markov---engineering/product-managers)
+- [Why use Markov? - Engineering/Product Managers](#why-use-markov---engineeringproduct-managers)
 - [Why use Markov? - Software Engineers](#why-use-markov---software-engineers)
 - [Getting Started](#getting-started)
 - [Pricing](#pricing)
@@ -21,7 +21,7 @@ Markov does this by forwarding synthetic user traffic to your test servers. The 
 - [FAQ](#faq)
 
 # Mission
-A vanguard for tech companies to update their test cases and prevent poor user experiences.
+Assure quality test cases and prevent poor customer experiences.
 
 # How Does Markov Work
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us, and in turn, which features to test.
