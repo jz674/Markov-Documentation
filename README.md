@@ -4,7 +4,7 @@
 ## Deploy with Confidence
 > Made by Developers for Developers
 
-Markov ensures that any changes you make to your application still perform as expected.
+Markov ensures that any changes developers make to their application still perform as expected.
 
 Markov does this by forwarding synthetic user traffic to your test servers. The synthetic traffic models your customers' behavior so we can realistically test the robustness of your test cases and trigger bugs/edge cases before your users do. 
 
