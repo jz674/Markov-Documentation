@@ -1,7 +1,7 @@
 # [markov.run][5] 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Screen%20Shot%202021-02-06%20at%203.12.06%20AM.png)
 
-## Deploy with Confidence
+## Test Your Test Cases
 > Made by Developers for Developers
 
 Markov ensures that any changes developers make to their application still perform as expected.
