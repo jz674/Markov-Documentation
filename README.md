@@ -1,10 +1,12 @@
 # [markov.run][5] 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Screen%20Shot%202021-02-06%20at%203.12.06%20AM.png)
 
-## Automatically Design and Update Test Scripts
+## Deploy with Confidence
 > Made by Developers for Developers
 
-Markov automates the process of creating, updating, and running test scripts that model your customer's web traffic. Each script creates the abstraction of a synthetic user that is interacting realistically with the API layer of your application.
+Markov ensures that any changes you make to your application still perform as expected.
+
+Markov does this by forwarding synthetic user traffic to your test servers. The synthetic traffic models your customers' behavior so we can realistically test the robustness of your test cases and trigger bugs/edge cases before your users do. 
 
 # Table of Contents
 - [Mission](#mission)
@@ -19,7 +21,7 @@ Markov automates the process of creating, updating, and running test scripts tha
 - [FAQ](#faq)
 
 # Mission
-To empower companies of all sizes to focus on innovation and launching to markets faster without compromsing user experience.
+A vanguard for tech companies to update their test cases and prevent poor user experiences.
 
 # How Does Markov Work
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us, and in turn, which features to test.
@@ -29,23 +31,26 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
  
 # Why use Markov? - Business
-1. Find bugs before your users do
-2. Reduce QA headcount
-3. Save hours handcrafting scripts
-4. Launch faster without compromising quality
-5. Modernize your legacy software
-
+1. Trigger bugs before your customers do
+2. Identify gaps in your test cases
+3. Analyze and forecast user behavior patterns
+4. Feel confident about happy paths and random edge cases
+5. No maintenance or special training needed
 
 # Why use Markov? - Software
-1. Regression test and load test realistically on commit
-2. Config # of scripts and specific parts of your API to test
-3. Monitor app's health before each change
-4. No maintenance or special training needed
-5. Super easy to set up, and built into your git workflow
-
-
+1. Update test cases before a bad user experience
+2. Config traffic volume and duration
+3. Specify parts of your API to test
+4. Built into your git workflow
+5. Super easy setup 
 
 # Getting Started
+
+## Prerequisite
+- A test environment
+- Ability to monitor the environment
+- Web application that makes REST API calls
+
 [Sign Up for Early Access][3], and instructions will follow.
 
 # Pricing
@@ -54,7 +59,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 # Demo
 
 ##Beginner-Friendly
-<a href="https://youtu.be/hOGrlItFLos" target="_blank"><img src="https://www.youtube.com/watch?v=QEU4EkpiLjA&feature=youtu.be" 
+<a href="https://www.youtube.com/watch?v=QEU4EkpiLjA&feature=youtu.be" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
 
 ##Technical - but still easy to follow
