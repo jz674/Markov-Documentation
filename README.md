@@ -58,11 +58,11 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 # Demo
 
-##Beginner-Friendly
+## Beginner-Friendly
 <a href="https://www.youtube.com/watch?v=QEU4EkpiLjA&feature=youtu.be" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
 
-##Technical - but still easy to follow
+## Technical - but still easy to follow
 <a href="https://youtu.be/hOGrlItFLos" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
 
