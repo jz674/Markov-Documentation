@@ -1,13 +1,11 @@
 # :star: Hi, Product Hunt Community! :clap:
 
 ## I want to introduce you to [Markov.run][5]
+### Assure Bulletproof Test Coverage
 
-### Check out our short demo :arrow_down::arrow_down::arrow_down:
+> ### short demo :arrow_down::arrow_down::arrow_down:
 <a href="https://www.youtube.com/watch?v=QEU4EkpiLjA&feature=youtu.be" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
-
-## Assure Bulletproof Test Coverage
-> made by developers for developers
 
 # Table of Contents
 - [What is Markov](#what-is-markov)
