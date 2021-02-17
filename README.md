@@ -1,6 +1,6 @@
 # Hello, Product Hunt Community! :clap:
 
-## I want to introduce you to [Markov: Bulletproof Your Test Coverage :boom:][5]
+## I want to introduce you to [Markov: Bulletproof Your Test Coverage :star2:][5]
 
 > ### :arrow_down::arrow_down::arrow_down: short demo :arrow_down::arrow_down::arrow_down:
 <a href="https://www.youtube.com/watch?v=QEU4EkpiLjA&feature=youtu.be" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
@@ -32,7 +32,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
 
 # Getting Started :rocket:
-## Prerequisite
+## Prerequisite :eyes:
 - Web application that makes REST API calls
 - Host a test environment
 - Clone production databases to test environment
