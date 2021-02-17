@@ -32,7 +32,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 # Getting Started :rocket:
 ## Prerequisite :eyes:
-[ ] Web application that makes REST API calls
+[] Web application that makes REST API calls
 [ ] Host a test environment
 [ ] Clone production databases to test environment
 [ ] Monitor test environment
