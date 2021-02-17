@@ -6,10 +6,10 @@
 
 # Table of Contents
 - [Mission](#mission)
-- [What is Markov]
-- [How does Markov work?](#how-does-markov-work?)
-- [Why use Markov? - Engineering/Product Managers](#why-use-markov---engineeringproduct-managers)
-- [Why use Markov? - Software Engineers](#why-use-markov---software-engineers)
+- [What is Markov](#what-is-markov)
+- [How does Markov work](#how-does-markov-work)
+- [Why use Markov - Engineering/Product Managers](#why-use-markov---engineeringproduct-managers)
+- [Why use Markov - Software Engineers](#why-use-markov---software-engineers)
 - [Getting Started](#getting-started)
 - [Demo](#demo)
 - [Contact](#contact)
@@ -27,8 +27,8 @@ All you need to do is forward your users' API requests traffic to Markov. You ha
 Essentially, Markov operates in two steps. Below is a diagram depicting the functionality of the service:
 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
- 
-# Why use Markov? - Engineering/Product Managers
+
+# Why use Markov - Engineering/Product Managers
 1. Aggressively trigger bugs before your customers do
 2. Auto create and update suites of regression tests
 3. Reduce downtime and deployment time
@@ -36,7 +36,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 5. No maintenance or special training needed
 
 
-# Why use Markov? - Software Engineers
+# Why use Markov - Software Engineers
 1. Record and replay broken scenarios
 2. Assure quality test coverage before negative user exp.
 3. Realistically load/stress/performance/regression test
@@ -44,7 +44,6 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 5. Super easy setup and built into your git workflow
 
 # Getting Started
-
 ## Prerequisite
 - Web application that makes REST API calls
 - Host a test environment
