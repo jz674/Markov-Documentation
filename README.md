@@ -1,6 +1,6 @@
 # :star: Hi, Product Hunt Community! :clap:
 
-## I want to introduce you to [Markov][5]: Assure Bulletproof Test Coverage
+## I want to introduce you to [Markov][5]: Bulletproof Your Test Coverage
 
 
 > ### short demo :arrow_down::arrow_down::arrow_down:
