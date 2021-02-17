@@ -1,6 +1,6 @@
 # :star: Hi, Product Hunt Community! :clap:
 
-## I want to introduce you to [Markov][5]: Bulletproof Your Test Coverage
+## I want to introduce you to [Markov][5]: Bulletproof Your Test Coverage :boom:
 
 
 > ### :arrow_down::arrow_down::arrow_down: short demo :arrow_down::arrow_down::arrow_down:
@@ -8,7 +8,7 @@
 alt="Demo" width="1000" height="300" border="10" /></a>
 
 # Table of Contents
-- [What is Markov](#what-is-markov)
+- [:raising_hand: What is Markov](#what-is-markov)
 - [How does Markov work](#how-does-markov-work)
 - [Why use Markov - Engineering/Product Managers](#why-use-markov---engineeringproduct-managers)
 - [Why use Markov - Software Engineers](#why-use-markov---software-engineers)
