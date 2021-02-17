@@ -7,8 +7,8 @@
 alt="Demo" width="1000" height="300" border="10" /></a>
 
 # Table of Contents :scroll:
-- [What is Markov](#what-is-markov-:raising_hand:)
-- [How does Markov work](#how-does-markov-work)
+- [What is Markov](#what-is-markov-raising-hand)
+- [How does Markov work](#how-does-markov-work-mortal-board)
 - [Engineering/Product Managers](#why-use-markov---engineeringproduct-managers)
 - [Why use Markov - Software Engineers](#why-use-markov---software-engineers)
 - [Getting Started](#getting-started)
