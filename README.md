@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/watch?v=QEU4EkpiLjA&feature=youtu.be" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
 
-## Assure Quality Test Cases
+## Quality Assure Your Test Cases
 > made by developers for developers
 
 # Table of Contents
