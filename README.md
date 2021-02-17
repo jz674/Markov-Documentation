@@ -1,4 +1,4 @@
-Hello, Product Hunt Community! :clap:
+# Hello, Product Hunt Community! :clap:
 
 ## I want to introduce you to [Markov][5]: Bulletproof Your Test Coverage :boom:
 
