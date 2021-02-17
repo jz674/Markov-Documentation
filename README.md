@@ -49,7 +49,7 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 - Business: [Jeff][7]
 - Techincal: [Jonathan][8]
 
-# FAQ :raising_hand:
+# FAQ :speech_balloon:
 1. How will Markov handle the privacy of our users' API calls?
 > Markov will serialized your forwarded API calls to ensure upmost security
 
@@ -60,7 +60,7 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 > All those require manually writing test scripts, regular maintained, high level of expertise, and very disruptive to set up
 Markov addresses all of those pain points
 
-# Note
+# Note :memo:
 Beta releasing soon - [Sign Up for Early Access][3]!
 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
