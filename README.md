@@ -41,7 +41,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 [Sign Up for Early Access][3] and we will personally reach out to get you set up. 
 
 # Technical Demo :movie_camera: 
-## still easy to follow :bowtie:
+> still easy to follow :bowtie:
 <a href="https://youtu.be/hOGrlItFLos" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
 
