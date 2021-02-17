@@ -1,10 +1,10 @@
-# Welcome Product Hunt Users!
+# :star: Hi, Product Hunt Community! :clap:
 
 ## I want to introduce you to [Markov.run][5]
 <a href="https://www.youtube.com/watch?v=QEU4EkpiLjA&feature=youtu.be" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
 
-## Quality Assure Your Test Cases
+## Assure Bulletproof Test Coverage
 > made by developers for developers
 
 # Table of Contents
@@ -13,15 +13,17 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 - [Why use Markov - Engineering/Product Managers](#why-use-markov---engineeringproduct-managers)
 - [Why use Markov - Software Engineers](#why-use-markov---software-engineers)
 - [Getting Started](#getting-started)
-- [Demo](#demo)
+- [Technical Demo](#technical-demo)
 - [Contact](#contact)
 - [Note](#note)
 - [FAQ](#faq)
 
 # What is Markov
-Markov assures bulletproof and comprehensive test coverage for new functionalities by forwarding synthetic traffic to your test servers. 
+Markov **assures bulletproof and comprehensive test coverage for new functionalities** by *forwarding synthetic traffic to your test servers.* 
 
-Our traffic is modeled your customers' behavior to realistically test the robustness of your application. Our goal is to break the API layer of your application with our synthetic traffic before your customers do. 
+Our traffic models your customers' behavior to realistically test the robustness of your application and **crash the API layer of your application before your customers do.**
+
+Markov enables you to **analyze all the user paths that caused errors, record/replay faulty customer paths, strengthen your test suite, and regression test with our synthetic traffic for max code coverage.
 
 # How Does Markov Work
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us, and in turn, which features to test.
@@ -30,21 +32,6 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
 
-# Why use Markov - Engineering/Product Managers
-1. Aggressively trigger bugs before your customers do
-2. Auto create and update suites of regression tests
-3. Reduce downtime and deployment time
-4. Analyze and forecast customer behavior patterns
-5. No maintenance or special training needed
-
-
-# Why use Markov - Software Engineers
-1. Record and replay broken scenarios
-2. Assure quality test coverage before negative user exp.
-3. Realistically load/stress/performance/regression test
-4. Specify parts of your API to test
-5. Super easy setup and built into your git workflow
-
 # Getting Started
 ## Prerequisite
 - Web application that makes REST API calls
@@ -52,10 +39,10 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 - Clone production databases to test environment
 - Monitor test environment
 
-[Sign Up for Early Access][3], and instructions will follow.
+[Sign Up for Early Access][3] and we will personally reach out to get you set up. 
 
-# Demo
-## Technical - but still easy to follow
+# Technical Demo
+## still easy to follow :bowtie:
 <a href="https://youtu.be/hOGrlItFLos" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
 
@@ -69,7 +56,6 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 
 2. What will we need to get started?
 > [Getting Started](#getting-started)
-
 
 3. How is Markov different from other testing libraries like Jest or Selenium?
 > All those require manually writing test scripts, regular maintained, high level of expertise, and very disruptive to set up
