@@ -1,11 +1,10 @@
-# [Markov.run][5]: Welcome Product Hunt Users!
+# Welcome Product Hunt Users!
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Screen%20Shot%202021-02-06%20at%203.12.06%20AM.png)
 
 ## Assure Quality Test Cases
-> Made by Developers for Developers
+>  [Markov.run][5]: is made by developers for developers
 
 # Table of Contents
-- [Mission](#mission)
 - [What is Markov](#what-is-markov)
 - [How does Markov work](#how-does-markov-work)
 - [Why use Markov - Engineering/Product Managers](#why-use-markov---engineeringproduct-managers)
