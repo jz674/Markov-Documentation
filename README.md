@@ -37,7 +37,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 - Clone production databases to test environment
 - Monitor test environment
 
-[Sign Up for Early Access][3] and we will personally reach out to get you set up. 
+:arrow_right: [Beta test with us][3] :arrow_left: and we will personally reach out to get you set up for # Free
 
 # Technical Demo :movie_camera: 
 > still easy to follow :bowtie:
@@ -60,11 +60,13 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 Markov addresses all of those pain points
 
 # Note :memo:
-Beta test with us - :arrow_right: [Sign Up for Early Access][3] :arrow_left:
+:arrow_right: [Beta test with us][3] :arrow_left:
 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API request traffic" 
-[3]: https://markov.run/ "Request Early Access" 
+[3]: https://markov.run/ "Beta test with us" 
+[3]: https://markov.run/ "Beta test with us" 
+
 [4]: https://www.youtube.com/watch?v=hv1AR6asbtA "UI"
 [5]: https://markov.run/ "Markov: Bulletproof Your Test Coverage :boom:" 
 [6]: https://raygun.com/blog/synthetic-testing/ "synthetic users"
