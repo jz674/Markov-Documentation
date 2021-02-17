@@ -17,14 +17,14 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 - [Note](#note)
 - [FAQ](#faq)
 
-# What is Markov :mortar_board:
+# What is Markov :raising_hand:
 Markov **assures bulletproof and comprehensive test coverage for new functionalities** by *forwarding synthetic traffic to your test servers.* 
 
 Our traffic models your customers' behavior to realistically test the robustness of your application and **crash the API layer of your application before your customers do.**
 
 Markov enables you to **analyze all the user paths that caused errors, record/replay faulty customer paths, strengthen your test suite, and regression test with our synthetic traffic for max code coverage.**
 
-# How Does Markov Work :raising_hand:
+# How Does Markov Work :mortar_board:
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us, and in turn, which features to test.
 
 Essentially, Markov operates in two steps. Below is a diagram depicting the functionality of the service:
