@@ -7,8 +7,8 @@
 alt="Demo" width="1000" height="300" border="10" /></a>
 
 # Table of Contents :scroll:
-- [What is Markov](#what-is-markov_raising-hand)
-- [How does Markov work](#how-does-markov-work-mortal_board)
+- [What is Markov](#what-is-markov-raising_hand)
+- [How does Markov work](#how-does-markov-work-mortar_board)
 - [Getting Started](#getting-started-rocket)
 - [Technical Demo](#technical-demo-movie_camera)
 - [Contact](#contact-incoming_envelope)
