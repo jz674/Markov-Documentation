@@ -7,15 +7,14 @@
 alt="Demo" width="1000" height="300" border="10" /></a>
 
 # Table of Contents :scroll:
-- [What is Markov](#what-is-markov-raising-hand)
-- [How does Markov work](#how-does-markov-work-mortal-board)
-- [Engineering/Product Managers](#why-use-markov---engineeringproduct-managers)
-- [Why use Markov - Software Engineers](#why-use-markov---software-engineers)
-- [Getting Started](#getting-started)
-- [Technical Demo](#technical-demo)
-- [Contact](#contact)
-- [Note](#note)
-- [FAQ](#faq)
+- [What is Markov](#what-is-markov_raising-hand)
+- [How does Markov work](#how-does-markov-work-mortal_board)
+- [Getting Started](#getting-started-rocket)
+- [Technical Demo](#technical-demo-movie_camera)
+- [Contact](#contact-incoming_envelope)
+- [FAQ](#faq-speech_balloon)
+- [Note](#note-memo)
+
 
 # What is Markov :raising_hand:
 Markov **assures bulletproof and comprehensive test coverage for new functionalities** by *forwarding synthetic traffic to your test servers.* 
