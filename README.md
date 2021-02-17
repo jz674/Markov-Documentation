@@ -1,13 +1,13 @@
 # :star: Hi, Product Hunt Community! :clap:
 
-## I want to introduce you to [Markov][5]: Bulletproof Your Test Coverage :boom:
+## I want to introduce you to :boom:[Markov][5]: Bulletproof Your Test Coverage:boom:
 
 
 > ### :arrow_down::arrow_down::arrow_down: short demo :arrow_down::arrow_down::arrow_down:
 <a href="https://www.youtube.com/watch?v=QEU4EkpiLjA&feature=youtu.be" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
 
-# :scroll: Table of Contents
+# :scroll: Table of Contents :scroll:
 - [What is Markov](#what-is-markov)
 - [How does Markov work](#how-does-markov-work)
 - [Why use Markov - Engineering/Product Managers](#why-use-markov---engineeringproduct-managers)
@@ -18,21 +18,21 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 - [Note](#note)
 - [FAQ](#faq)
 
-# :raising_hand: What is Markov
+# :raising_hand: What is Markov :raising_hand:
 Markov **assures bulletproof and comprehensive test coverage for new functionalities** by *forwarding synthetic traffic to your test servers.* 
 
 Our traffic models your customers' behavior to realistically test the robustness of your application and **crash the API layer of your application before your customers do.**
 
 Markov enables you to **analyze all the user paths that caused errors, record/replay faulty customer paths, strengthen your test suite, and regression test with our synthetic traffic for max code coverage.
 
-# :raising_hand: How Does Markov Work
+# :raising_hand: How Does Markov Work :raising_hand:
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us, and in turn, which features to test.
 
 Essentially, Markov operates in two steps. Below is a diagram depicting the functionality of the service:
 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
 
-# :raising_hand: Getting Started
+# :raising_hand: Getting Started :raising_hand: 
 ## Prerequisite
 - Web application that makes REST API calls
 - Host a test environment
@@ -41,16 +41,16 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 [Sign Up for Early Access][3] and we will personally reach out to get you set up. 
 
-# :raising_hand: Technical Demo
+# :raising_hand: Technical Demo :raising_hand: 
 ## still easy to follow :bowtie:
 <a href="https://youtu.be/hOGrlItFLos" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
 
-# :iphone: Contact
+# :iphone: Contact :iphone:
 - Business: [Jeff][7]
 - Techincal: [Jonathan][8]
 
-# :raising_hand: FAQ
+# :raising_hand: FAQ :raising_hand:
 1. How will Markov handle the privacy of our users' API calls?
 > Markov will serialized your forwarded API calls to ensure upmost security
 
