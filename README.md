@@ -33,9 +33,8 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 # Getting Started :rocket:
 ## Prerequisite :eyes:
 - Web application that makes REST API calls
-- Host a test environment
-- Clone production databases to test environment
-- Monitor test environment
+- Test environment with same data/scheme as Production
+- Ability to monitor test environment
 
 :arrow_right: [Beta test with us][3] :arrow_left: and we will personally reach out to get you set up for **__Free__**
 
