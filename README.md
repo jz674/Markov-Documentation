@@ -1,6 +1,6 @@
 # Hello, Product Hunt Community! :clap:
 
-## I want to introduce you to [Markov][5]: Bulletproof Your Test Coverage :boom:
+## I want to introduce you to [Markov: Bulletproof Your Test Coverage :boom:][5]
 
 > ### :arrow_down::arrow_down::arrow_down: short demo :arrow_down::arrow_down::arrow_down:
 <a href="https://www.youtube.com/watch?v=QEU4EkpiLjA&feature=youtu.be" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
@@ -67,7 +67,7 @@ Beta releasing soon - [Sign Up for Early Access][3]!
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API request traffic" 
 [3]: https://markov.run/ "Request Early Access" 
 [4]: https://www.youtube.com/watch?v=hv1AR6asbtA "UI"
-[5]: https://markov.run/ "Markov" 
+[5]: https://markov.run/ "Markov: Bulletproof Your Test Coverage :boom:" 
 [6]: https://raygun.com/blog/synthetic-testing/ "synthetic users"
 [7]: https://www.linkedin.com/in/jz674/ "Jeff"
 [8]: https://www.linkedin.com/in/jto98/ "Jonathan"
