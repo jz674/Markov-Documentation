@@ -22,7 +22,7 @@ Markov **assures bulletproof and comprehensive test coverage for new functionali
 
 Our traffic models your customers' behavior to realistically test the robustness of your application and **crash the API layer of your application before your customers do.**
 
-Markov enables you to **analyze all the user paths that caused errors, record/replay faulty customer paths, strengthen your test suite, and regression test with our synthetic traffic for max code coverage.
+Markov enables you to **analyze all the user paths that caused errors, record/replay faulty customer paths, strengthen your test suite, and regression test with our synthetic traffic for max code coverage.**
 
 # How Does Markov Work :raising_hand:
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us, and in turn, which features to test.
