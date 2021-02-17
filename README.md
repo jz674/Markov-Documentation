@@ -4,24 +4,22 @@
 ## Assure Quality Test Cases
 > Made by Developers for Developers
 
-Markov assures comprehensive and quality test cases by forwarding synthetic traffic that mimics your customers' behavior. 
-
-Our synthetic traffic models your customers' behavior to realistically test the robustness of your application. Our goal is to break the API layer of your application with our synthetic traffic before your customers do. 
-
 # Table of Contents
 - [Mission](#mission)
-- [How Does Markov Work?](#how-does-markov-work?)
+- [What is Markov]
+- [How does Markov work?](#how-does-markov-work?)
 - [Why use Markov? - Engineering/Product Managers](#why-use-markov---engineeringproduct-managers)
 - [Why use Markov? - Software Engineers](#why-use-markov---software-engineers)
 - [Getting Started](#getting-started)
-- [Pricing](#pricing)
 - [Demo](#demo)
 - [Contact](#contact)
 - [Note](#note)
 - [FAQ](#faq)
 
-# Mission
-Assure quality test cases and prevent poor customer experiences.
+# What is Markov
+Markov assures bulletproof and comprehensive test coverage for new functionalities by forwarding synthetic traffic to your test servers. 
+
+Our traffic is modeled your customers' behavior to realistically test the robustness of your application. Our goal is to break the API layer of your application with our synthetic traffic before your customers do. 
 
 # How Does Markov Work
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us, and in turn, which features to test.
@@ -48,17 +46,14 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 # Getting Started
 
 ## Prerequisite
-- A test environment
-- Ability to monitor the environment
 - Web application that makes REST API calls
+- Host a test environment
+- Clone production databases to test environment
+- Monitor test environment
 
 [Sign Up for Early Access][3], and instructions will follow.
 
-# Pricing
-[Sign Up for Early Access][3], and you will receive exclusive discounts only for our Early Adopters
-
 # Demo
-
 ## Beginner-Friendly
 <a href="https://www.youtube.com/watch?v=QEU4EkpiLjA&feature=youtu.be" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
@@ -76,12 +71,12 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 > Markov will serialized your forwarded API calls to ensure upmost security
 
 2. What will we need to get started?
-> TBD
+> [Getting Started](#getting-started)
+
 
 3. How is Markov different from other testing libraries like Jest or Selenium?
 > All those require manually writing test scripts, regular maintained, high level of expertise, and very disruptive to set up
 Markov addresses all of those pain points
-
 
 # Note
 Beta releasing soon - [Sign Up for Early Access][3]!
