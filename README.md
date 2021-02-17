@@ -17,7 +17,7 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 - [Note](#note)
 - [FAQ](#faq)
 
-# What is Markov :raising_hand:
+# What is Markov :mortar_board:
 Markov **assures bulletproof and comprehensive test coverage for new functionalities** by *forwarding synthetic traffic to your test servers.* 
 
 Our traffic models your customers' behavior to realistically test the robustness of your application and **crash the API layer of your application before your customers do.**
@@ -31,7 +31,7 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Intro_diagram.png)
 
-# Getting Started :raising_hand: 
+# Getting Started :rocket:
 ## Prerequisite
 - Web application that makes REST API calls
 - Host a test environment
@@ -40,12 +40,12 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 
 [Sign Up for Early Access][3] and we will personally reach out to get you set up. 
 
-# Technical Demo :raising_hand: 
+# Technical Demo :movie_camera: 
 ## still easy to follow :bowtie:
 <a href="https://youtu.be/hOGrlItFLos" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
 
-# Contact :iphone:
+# Contact :incoming_envelope:
 - Business: [Jeff][7]
 - Techincal: [Jonathan][8]
 
