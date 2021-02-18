@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/watch?v=QEU4EkpiLjA&feature=youtu.be" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
 
-# :arrow_right: [Beta Test w/ Us][3] :arrow_left: 
+# :arrow_right: [Beta Test with Us][3] :arrow_left: 
 > # Let's Transform The Way We Build And Test Products :grin:
 
 # Table of Contents :scroll:
@@ -60,7 +60,7 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 > All those require manually writing test scripts, regular maintained, high level of expertise, and very disruptive to set up
 Markov addresses all of those pain points
 
-# :arrow_right: [Beta Test w/ Us][3] :arrow_left: 
+# :arrow_right: [Beta Test with Us][3] :arrow_left: 
 > # Let's Transform The Way We Build And Test Products
 
 
