@@ -8,6 +8,7 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 
 # :arrow_right: [Beta test Markov][3] :arrow_left: - love for your feedback
 > ## Let's transform the way we build and test products :grin:
+> ### Built by developers for developers
 
 # Table of Contents :scroll:
 - [What is Markov](#what-is-markov-raising_hand)
