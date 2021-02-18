@@ -52,7 +52,7 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 
 # FAQ :speech_balloon:
 1. How will Markov handle the privacy of our users' API calls?
-> Markov will serialized your forwarded API calls to ensure upmost security
+> We give you a code snippet to forward your users' API request. You have the option to forward directly from your production router or read from your logs in a separate program. Once Markov recieves your users' API request, we will serialized the request. 
 
 2. What will we need to get started?
 > [Getting Started](#getting-started)
