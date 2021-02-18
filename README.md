@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/watch?v=QEU4EkpiLjA&feature=youtu.be" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
 
-# :arrow_right: [Beta Test With Us][3] :arrow_left: 
+# :arrow_right: [Beta Test w/ Us][3] :arrow_left: 
 > # Let's Transform The Way We Build And Test Products :grin:
 
 # Table of Contents :scroll:
@@ -60,13 +60,13 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 > All those require manually writing test scripts, regular maintained, high level of expertise, and very disruptive to set up
 Markov addresses all of those pain points
 
-# :arrow_right: [Beta Test With Us][3] :arrow_left: 
+# :arrow_right: [Beta Test w/ Us][3] :arrow_left: 
 > # Let's Transform The Way We Build And Test Products
 
 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API request traffic" 
-[3]: https://markov.run/ "Beta test with us" 
+[3]: https://markov.run/ "Beta test w/ us" 
 [10]: https://markov.run/ "Let's Change The Way We Build and Test" 
 [4]: https://www.youtube.com/watch?v=hv1AR6asbtA "UI"
 [5]: https://markov.run/ "Markov: Bulletproof Your Test Coverage :boom:" 
