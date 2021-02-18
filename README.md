@@ -60,8 +60,8 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 > All those require manually writing test scripts, regular maintained, high level of expertise, and very disruptive to set up
 Markov addresses all of those pain points
 
-# :arrow_right: [Beta Test with Us][3] :arrow_left: 
-> # Let's Transform The Way We Build And Test Products
+# :arrow_right: [Beta Test With Us][3] :arrow_left: 
+> ## Let's Transform The Way We Build And Test Products :grin:
 
 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
