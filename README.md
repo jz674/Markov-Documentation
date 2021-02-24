@@ -31,7 +31,7 @@ All you need to do is forward your users' API requests traffic to Markov. You ha
 
 Essentially, Markov operates in two steps. Below is a diagram depicting the functionality of the service:
 
-![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/How_Markov_work.png)
+![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/How_markov_works.png)
 
 # Getting Started :rocket:
 ## Prerequisite :eyes:
