@@ -45,12 +45,9 @@ Essentially, Markov operates in two steps. Below is a diagram depicting the func
 > still easy to follow :bowtie:
 <a href="https://youtu.be/hOGrlItFLos" target="_blank"><img src="https://github.com/jz674/Markov_Documentation/blob/main/assets/undraw_media_player_ylg8.svg" 
 alt="Demo" width="1000" height="300" border="10" /></a>
-![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/demo_pic.png)
-
 
 # Contact :incoming_envelope:
-- Business: [Jeff][7]
-- Techincal: [Jonathan][8]
+- [Jeff][7]
 
 # FAQ :speech_balloon:
 1. How will Markov handle the privacy of our users' API calls?
@@ -65,7 +62,7 @@ Markov addresses all of those pain points
 
 # :arrow_right: [Beta Test With Us][3] :arrow_left: 
 > ## Let's Transform The Way We Build And Test Products :grin:
-
+> ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/demo_pic.png)
 
 [1]: https://www.scnsoft.com/blog/what-is-regression-testing-short-overview/ "regression test" 
 [2]: https://medium.com/katalon-studio/introduction-to-api-testing-complete-guide-for-newbie-426eac6edb4d/ "API request traffic" 
@@ -75,5 +72,4 @@ Markov addresses all of those pain points
 [5]: https://markov.run/ "Markov: Bulletproof Your Test Coverage :boom:" 
 [6]: https://raygun.com/blog/synthetic-testing/ "synthetic users"
 [7]: https://www.linkedin.com/in/jz674/ "Jeff"
-[8]: https://www.linkedin.com/in/jto98/ "Jonathan"
 [9]: https://smartbear.com/learn/performance-monitoring/what-is-synthetic-monitoring/ "synthetic monitor"
