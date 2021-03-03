@@ -20,7 +20,7 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 
 
 # What is Markov :raising_hand:
-Markov **ensure bulletproof and comprehensive test coverage for new functionalities**.
+Markov **ensures bulletproof and comprehensive test coverage for new functionalities**.
 
 Markov enables you to **analyze all the user paths that caused errors, record/replay faulty customer paths, strengthen your test suite, and regression test with our synthetic traffic for max code coverage.**
 
