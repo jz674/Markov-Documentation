@@ -7,8 +7,7 @@
 alt="Demo" width="1000" height="300" border="10" /></a>
 
 # :arrow_right: [Beta test Markov][3] :arrow_left: - love for your feedback
-> ## Let's transform the way we build and test products :grin:
-> ### Built by developers for developers
+> ## Built by developers for developers
 
 # Table of Contents :scroll:
 - [What is Markov](#what-is-markov-raising_hand)
@@ -20,12 +19,16 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 
 
 # What is Markov :raising_hand:
-Markov **ensures bulletproof and comprehensive test coverage for new functionalities**.
+Markov **breaks your app using your users' historical web traffic.**
+
+It does this by finding all the faulty user paths and predicting future behaviors for new feature releases.
+
+You can analyze/record/replay faulty user paths, strengthen your test suites, and regression test with our synthetic traffic for max coverage.
 
 Markov enables you to **analyze all the user paths that caused errors, record/replay faulty customer paths, strengthen your test suite, and regression test with our synthetic traffic for max code coverage.**
 
 # How Does Markov Work :mortar_board:
-We forward synthetic traffic to your test servers. Our traffic models your customers' behavior to realistically test the robustness of your application and **crash the API layer of your application before your customers do.**
+We forward synthetic traffic to your test servers. Our traffic models your customers' behavior to realistically test your application's robustness and **crash the API layer of your application before your customers do.**
 
 All you need to do is forward your users' API requests traffic to Markov. You have total autonomy in choosing which requests you want to forward to us, and in turn, which features to test.
 
@@ -57,8 +60,8 @@ alt="Demo" width="1000" height="300" border="10" /></a>
 > [Getting Started](#getting-started)
 
 3. How is Markov different from other testing libraries like Jest or Selenium?
-> All those require manually writing test scripts, regular maintained, high level of expertise, and very disruptive to set up
-Markov addresses all of those pain points
+> All those require you to manually writing test scripts, regular maintained, high level of expertise, and very disruptive to set up
+Markov addresses all of those pain points. Simply forward us your users' web traffic, and we will start automatically generating our synthetic traffic for you to regression test.
 
 # :arrow_right: [Beta Test With Us][3] :arrow_left: 
 > ## Let's Transform The Way We Build And Test Products :grin:
